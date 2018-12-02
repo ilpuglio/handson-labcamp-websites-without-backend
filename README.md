@@ -6,8 +6,8 @@ Demo for Reply Labcamp
 
 ### Fork the project
 
-1. Fork the project into your GitHub account https://github.com/ilpuglio/labcamp-websites-without-backend.git
-2. Clone the project from your GitHub account `git clone https://github.com/XXX/labcamp-websites-without-backend.git`
+1. Fork the project into your GitHub account https://github.com/ilpuglio/handson-labcamp-websites-without-backend.git
+2. Clone the project from your GitHub account `git clone https://github.com/XXX/handson-labcamp-websites-without-backend.git`
 3. Checkout the branch related to your group (eg. group-1) `git checkout group-1`
 4. run `npm install` and then `npm start` to run the project on localhost:3000
 5. Setup Netlify account connecting it to your GitHub account
