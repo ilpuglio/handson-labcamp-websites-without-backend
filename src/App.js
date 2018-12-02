@@ -17,8 +17,7 @@ class App extends Component {
               Building simple Websites without backend
             </h1>
             <p className="lead">
-              This is a modified jumbotron that occupies the entire horizontal
-              space of its parent.
+              This will be your playground for the hands on part of this labcamp.
             </p>
           </div>
         </div>
